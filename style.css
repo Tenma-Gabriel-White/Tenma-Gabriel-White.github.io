@@ -32,7 +32,7 @@ body {
 }
 .body {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   margin-top: 90px;
   margin-left: 1470px;
   position: absolute;
